@@ -15,6 +15,16 @@
 
 ---
 
+Scriptly redefines remote teamwork for developers and students. This MERN-stack application offers a dynamic, real-time environment that eliminates the friction of traditional pair programming. At its core is a powerful editor that supports a vast range of programming languages and is highly customizable with various themes and font styles. By seamlessly integrating a live code editor with real time chatting and file sharing, Scriptly provides a cohesive and efficient workspace. This unified approach ensures that all collaborators are on the same page, turning what was once a clunky, multi-tool process into a fluid and intuitive experience.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js, TypeScript, Tailwind CSS  
+- **Backend:** MongoDB, Node.js, Express.js, WebSockets (Socket.IO)  
+- **Code Execution API:** Piston API (for running code in multiple languages)  
+
+---
 ## 🚀 Features
 - **Real-time Collaborative Editing** – Multiple users can edit the same code file simultaneously.
 - **Built-in Chat Support** – Communicate with collaborators directly within the editor.
@@ -38,13 +48,6 @@
   <img src="client/src/assets/chats.png" alt="Chats" width="48%"/>
   <img src="client/src/assets/settings.png" alt="Settings" width="48%"/>
 </p>
----
-
-## 🛠️ Tech Stack
-- **Frontend:** React.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express.js, WebSockets (Socket.IO)  
-- **Code Execution API:** Piston API (for running code in multiple languages)  
-
 ---
 
 ## ⚡ Installation & Setup
