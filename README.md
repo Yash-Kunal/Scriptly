@@ -26,11 +26,12 @@ Scriptly redefines remote teamwork for developers and students. This MERN-stack 
 
 ---
 ## 🚀 Features
+
+- **User Signup/Login** – Secure signup and login via JWT authentication.
 - **Real-time Collaborative Editing** – Multiple users can edit the same code file simultaneously.
 - **Built-in Chat Support** – Communicate with collaborators directly within the editor.
 - **Multiple Language Support** – Run and test code in different programming languages.
 - **File Management System** – Create, rename, and delete files in a structured workspace.
-- **User Presence & Status** – See who is online and actively editing.
 - **Responsive UI** – Clean, modern, and optimized for all screen sizes.
 - **Secure Rooms** – Join or create rooms for private collaborative sessions.
 
